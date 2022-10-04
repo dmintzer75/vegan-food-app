@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/vegan-food-app/static/css/main.abdb4466.css",
-    "main.js": "/vegan-food-app/static/js/main.670d26c1.js",
+    "main.js": "/vegan-food-app/static/js/main.10889441.js",
     "static/media/header-img.jpg": "/vegan-food-app/static/media/header-img.3ccab7c71f46d1035c0c.jpg",
     "index.html": "/vegan-food-app/index.html",
     "main.abdb4466.css.map": "/vegan-food-app/static/css/main.abdb4466.css.map",
-    "main.670d26c1.js.map": "/vegan-food-app/static/js/main.670d26c1.js.map"
+    "main.10889441.js.map": "/vegan-food-app/static/js/main.10889441.js.map"
   },
   "entrypoints": [
     "static/css/main.abdb4466.css",
-    "static/js/main.670d26c1.js"
+    "static/js/main.10889441.js"
   ]
 }
