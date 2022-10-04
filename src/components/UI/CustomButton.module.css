@@ -1,0 +1,52 @@
+.cart-button button {
+    background-color: #363633;
+    color:#FEEC50;
+    font-size: 1rem;
+    font-weight: bold;
+    z-index: 11;
+    /* transform: translate(-30%); */
+    border-radius: 1em;
+    text-align: center;
+    /* height: 40px; */
+}
+
+.cart-button button:hover {
+    background-color: #FEEC50;
+    color:#363633;
+    border: 2px solid #363633;
+}
+
+.icon {
+padding-top: 5px;
+
+}
+
+.label {
+    padding-left: 1em
+}
+
+.badge {
+    padding-left: 1em
+}
+
+.bump {
+    animation: bump 300ms ease-out;
+  }
+  
+  @keyframes bump {
+    0% {
+      transform: scale(1);
+    }
+    10% {
+      transform: scale(0.9);
+    }
+    30% {
+      transform: scale(1.1);
+    }
+    50% {
+      transform: scale(1.15);
+    }
+    100% {
+      transform: scale(1);
+    }
+  }

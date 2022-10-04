@@ -1,0 +1,21 @@
+
+.input {
+    display: flex;
+    font-size: 1em;
+    font-weight: bold;
+    align-items: center;
+}
+
+.input input {
+    margin: 0.5em;
+    width: 3em;
+    
+    border: 1px solid #ccc;
+    padding-left: 0.5rem;
+}
+
+.input label {
+    margin: 0.8em;
+    margin-right: 1rem;
+    font-weight: bold;
+} 

@@ -1,0 +1,10 @@
+.card {
+    color: #252523;
+    background-color: white;
+
+    margin: auto;
+    text-align: left;
+    padding: 3em;
+    border-radius: 1em;
+    list-style-type: none;
+}
